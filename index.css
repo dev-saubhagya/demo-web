@@ -1,0 +1,150 @@
+* {
+    margin: 0;
+
+}
+
+header {
+    background-color: rgb(42, 70, 154);
+    padding: 25px;
+
+}
+
+.na {
+    margin-right: 20px;
+    margin-left: 10px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: space-between;
+
+
+}
+
+.combo {
+    margin: 0px;
+    padding: 0px;
+    justify-content: flex-start;
+}
+
+.innerform {
+    background-color: rgb(46, 40, 40);
+    margin: 75px;
+    padding: 5px;
+    width: 269px;
+    height: 294px;
+    text-align: center;
+    border-radius: 10px;
+}
+
+.form {
+    margin-right: 25px;
+    display: flex;
+    justify-content: end;
+
+}
+
+.man {
+    display: flex;
+    justify-content: space-around;
+    background-color: rgb(168, 75, 244);
+    height: 500px;
+    align-items: center;
+
+}
+
+.int {
+    font-weight: 700;
+    color: white;
+    margin: 25px 2px;
+    padding: 5px;
+    width: 95%;
+    border: none;
+    background-color: rgb(46, 40, 40);
+
+}
+
+h1 {
+    color: #5ab861;
+    font-size: 41px;
+}
+
+.butt {
+    color: black;
+    font-weight: 700;
+    background-color: orangered;
+    border: none;
+    border-radius: 5px;
+    width: 200px;
+    height: 25px;
+
+}
+
+.te {
+    margin: 10px;
+    background-color: beige;
+    color: rgb(169, 169, 14);
+    font-weight: 900;
+    font-size: large;
+    width: 95%;
+}
+
+.new {
+    text-decoration: none;
+    color: rgb(255, 243, 243);
+
+}
+
+.butt1 {
+    border-radius: 5px;
+    height: 25px;
+    background-color: orangered;
+    color: white;
+
+    border: none;
+    padding: 3px;
+}
+
+.text {
+    width: 250px;
+    height: 24px;
+    color: rgb(12, 15, 14);
+    margin: -4px;
+    border-radius: 5px;
+}
+
+h2 {
+    font-size: 56px;
+    color: aliceblue;
+}
+
+.foot {
+    text-align: center;
+    background-color: rgb(168, 75, 244);
+    height: 151px;
+}
+
+a:hover {
+    color: red;
+}
+
+.heading {
+    text-align: center;
+}
+
+.para {
+    text-align: center;
+}
+
+.less {
+    margin: 10px;
+    color: white;
+}
+
+.para {
+    color: rgb(33, 38, 179);
+    font-size: 25px;
+}
+
+button:hover {
+    background-color: rgb(25, 25, 234);
+}
