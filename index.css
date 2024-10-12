@@ -31,7 +31,7 @@ header {
     margin: 75px;
     padding: 5px;
     width: 269px;
-    height: 294px;
+
     text-align: center;
     border-radius: 10px;
 }
@@ -96,7 +96,7 @@ h1 {
 
 .butt1 {
     border-radius: 5px;
-    height: 25px;
+    height: 30px;
     background-color: orangered;
     color: white;
 
@@ -147,4 +147,17 @@ a:hover {
 
 button:hover {
     background-color: rgb(25, 25, 234);
+}
+
+.log {
+    color: rgb(212, 202, 202);
+    font-size: large;
+}
+
+.icon {
+    font-size: larger;
+    display: flex;
+    justify-content: space-evenly;
+    margin: 10px;
+    color: white;
 }
